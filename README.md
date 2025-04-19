@@ -6,4 +6,4 @@ Para este analisis se conto con la informacion detallada de ventas de 4 tiendas 
 
 Para el analisis se utilizo la herramienta Google Colab.
 
-Se adjunta un informe en donde se pretende mostrar el resultado del analisis aplicado.
+Se adjunta un informe en donde se pretende mostrar el resultado del analisis aplicado. De igual forma en el archivo Análisis del desempeño geográfico.html se muestra el analisis del desempeño geografico.
